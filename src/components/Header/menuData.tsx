@@ -27,13 +27,13 @@ const menuData: Menu[] = [
   },
   {
     id: 4,
-    title: "Pages",
+    title: "More",
     newTab: false,
     submenu: [
       {
         id: 41,
-        title: "About Page",
-        path: "/about",
+        title: "News",
+        path: "/news",
         newTab: false,
       },
       {

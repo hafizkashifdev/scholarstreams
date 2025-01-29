@@ -25,35 +25,22 @@ const AboutSectionTwo = () => {
             </div>
           </div>
           <div className="w-full px-4 lg:w-1/2">
-            <div className="max-w-[470px]">
-              <div className="mb-9">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Bug free code
-                </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                </p>
-              </div>
-              <div className="mb-9">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Premier support
-                </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt.
-                </p>
-              </div>
-              <div className="mb-1">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Next.js
-                </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt
-                  consectetur adipiscing elit setim.
-                </p>
-              </div>
-            </div>
+            <h2 className="text-3xl font-bold text-primary mb-4">Join Us</h2>
+            <p className="mb-4 text-lg font-medium text-body-color">
+              Become Part of a Global Learning Movement
+            </p>
+            <p className="mb-4 text-body-color">
+              At ScholarStreams, we believe in the power of community. By joining our platform, you become part of a global movement dedicated to lifelong learning and growth. Whether you’re a student just beginning your academic journey, a professional looking to expand your knowledge, or an entrepreneur seeking innovative ideas, ScholarStreams offers the resources, support, and community to help you succeed.
+            </p>
+            <ul className="mb-4 text-body-color list-disc list-inside">
+              <li><span className="font-bold">Connect with Like-minded Learners:</span> Engage with a diverse community of learners, educators, and professionals who share your passion for knowledge.</li>
+              <li><span className="font-bold">Collaborate on Exciting Projects:</span> Work with others to explore new ideas, solve problems, and drive meaningful change in your areas of interest.</li>
+              <li><span className="font-bold">Share Your Expertise:</span> If you have knowledge to share, ScholarStreams is the perfect platform for you to contribute. Become a guest writer, speaker, or mentor to inspire others.</li>
+              <li><span className="font-bold">Stay Informed and Inspired:</span> Access fresh insights, expert advice, and the latest trends in various industries to stay ahead of the curve and continuously evolve.</li>
+            </ul>
+            <p className="text-body-color">
+              Together, we can make education more inclusive, dynamic, and impactful for everyone. Join us at ScholarStreams and continue your journey of learning, growth, and collaboration!
+            </p>
           </div>
         </div>
       </div>

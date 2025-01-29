@@ -5,31 +5,32 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Musharof Chy",
-    designation: "Founder @TailGrids",
+    name: "Jane Doe",
+    designation: "Principal, Springfield High School",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Discovering Scholar Streams has transformed our learning environment. The range of topics and the depth of the resources available have allowed our educators and students to explore new horizons of knowledge. It's more than just a learning platform—it's a gateway to inspiring educational journeys.",
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
   {
     id: 2,
-    name: "Devid Weilium",
-    designation: "Founder @UIdeck",
+    name: "Michael Smith",
+    designation: "Parent",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "As a parent, it's challenging to find content that is both educational and engaging for my kids. Scholar Streams strikes the perfect balance, providing a safe, enriching space for them to learn and grow. I've seen remarkable improvement in their academic interests and skills.",
     image: "/images/testimonials/auth-02.png",
     star: 5,
   },
   {
     id: 3,
-    name: "Lethium Frenci",
-    designation: "Founder @Lineicons",
+    name: "Linda Taylor",
+    designation: "Teacher at City Middle School",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Scholar Streams isn't just a tool for students; it's a support system for teachers as well. The ready-to-use resources and interactive content have made it easier for me to engage my students and cater to diverse learning styles. It’s an invaluable part of our classroom.",
     image: "/images/testimonials/auth-03.png",
     star: 5,
   },
+  
 ];
 
 const Testimonials = () => {

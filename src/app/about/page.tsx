@@ -5,8 +5,8 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About Page | Free Next.js Template for Startup and SaaS",
-  description: "This is About Page for Startup Nextjs Template",
+  title: "About | Empowering Lifelong Learning",
+  description: "At ScholarStreams, we believe that learning is a lifelong journey. Our mission is to provide a platform where curiosity is nurtured, knowledge is shared, and collaboration thrives. Whether you are a student, professional, or lifelong learner, ScholarStreams is your go-to resource for discovering new ideas, expanding your horizons, and connecting with like-minded individuals.",
   // other metadata
 };
 
@@ -14,8 +14,8 @@ const AboutPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        pageName="About Us"
+        description="At ScholarStreams, we believe that learning is a lifelong journey. Our mission is to provide a platform where curiosity is nurtured, knowledge is shared, and collaboration thrives. Whether you are a student, professional, or lifelong learner, ScholarStreams is your go-to resource for discovering new ideas, expanding your horizons, and connecting with like-minded individuals."
       />
       <AboutSectionOne />
       <AboutSectionTwo />
