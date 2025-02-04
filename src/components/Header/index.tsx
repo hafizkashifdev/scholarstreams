@@ -57,7 +57,7 @@ const Header = () => {
                 } `}
               >
                 <Image
-                  src="/images/logo/logoa.svg"
+                  src="/images/logo/logoa.sg"
                   alt="logo"
                   layout="intrinsic"
                   width={160} // Higher resolution width
@@ -65,7 +65,7 @@ const Header = () => {
                   className="dark:hidden w-20 h-auto" // Scaled down using CSS
                 />
                 <Image
-                  src="/images/logo/logob.svg"
+                  src="/images/logo/logobsvg"
                   alt="logo"
                   layout="intrinsic"
                   width={160} 

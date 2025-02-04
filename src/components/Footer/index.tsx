@@ -115,12 +115,12 @@ const Footer = () => {
                   Useful Links
                 </h2>
                 <ul>
-                <li>
+                  <li>
                     <Link
                       href="/"
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
-                   Home
+                      Home
                     </Link>
                   </li>
                   <li>
@@ -139,14 +139,13 @@ const Footer = () => {
                       Blog
                     </Link>
                   </li>
-                 
-                 
+
                   <li>
                     <Link
                       href="/contact"
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
-                   Contact Us
+                      Contact Us
                     </Link>
                   </li>
                 </ul>
@@ -235,7 +234,6 @@ const Footer = () => {
                 Scholar Streams
               </a>{" "}
               and{" "}
-            
             </p>
           </div>
         </div>
